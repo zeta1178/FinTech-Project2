@@ -1,6 +1,8 @@
 # FinTech-Project2
 FinTech-Project2
 
+## Hi Mike
+
 ![Plot 1](plots/Stock-AutoCorrection-Plot.png)
 
 ![Plot 2](plots/Stock-Price-Over-Time-Plot.png)
