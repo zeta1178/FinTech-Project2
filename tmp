@@ -1,0 +1,27 @@
+account ID: zoltar-project
+user: <your email>
+rw&oCrDvF00DT5X
+
+
+account ID: zoltar-project
+user: losyulianna@gmail.com
+1gFz0@JuAaE()!2
+
+
+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
+
+/Users/michaelcruz/git/FinTech-Project2/layers/lib/python3.10/site-packages
+
+cp -R * /Users/michaelcruz/git/FinTech-Project2/temp/python/
+
+DEMO-linear-endpoint-202209230147
+arn:aws:sagemaker:us-east-1:193309394638:endpoint/demo-linear-endpoint-202209230147
+
+
+aws lambda invoke --function-name RunNotebook --payload '{"input_path": "s3://source-voltar/input/GetYahooData.ipynb"}' result.json
+
+aws lambda invoke --function-name RunNotebook  --cli-binary-format raw-in-base64-out --payload '{"input_path":"s3://source-voltar/input/GetYahooData.ipynb"}' response.json | jq .
+aws lambda invoke --function-name RunNotebook  --cli-binary-format raw-in-base64-out --payload '{"input_path":"s3://source-voltar/input/GetYahooData.ipynb"}' result.json | jq .
+
+
+run-notebook run GetYahooData.ipynb
