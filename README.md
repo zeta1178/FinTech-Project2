@@ -1,7 +1,7 @@
 # FinTech-Project2
 FinTech-Project2
 
-![Runtime Diagram](diagrams/RuntimeDiag.svg)
+![Runtime Diagram](diagrams/RuntimeDiag.jpg)
 
 ![Plot 1](plots/Stock-AutoCorrection-Plot.jpg)
 
