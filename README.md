@@ -12,3 +12,5 @@ FinTech-Project2
 ![Plot 4](plots/Stock-Prophet-Plot.jpg)
 
 ![Plot 5](plots/Stock-Prophet-Seasonal-Plot.jpg)
+
+![Plot 6](plots/Prediction-Fed-Recession-Prophet-Plot.jpg)
