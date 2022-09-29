@@ -7,7 +7,7 @@ FinTech-Project2
 
 ![Plot 2](plots/Stock-Price-Over-Time-Plot.jpg)
 
-![Plot 3b](plots/AAPL_YahooFinanceChart.png)
+![Plot 3b](plots/AAPL_YahooFinanceChart.jpg)
 
 ![Plot 3](plots/Stock-Price-Prediction-Plot.jpg)
 
