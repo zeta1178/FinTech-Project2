@@ -17,4 +17,6 @@ FinTech-Project2
 
 ![Plot 5b](plots/MC_252Days_sim_plot_AAPL.png)
 
+![Plot 5b](plots/MC_252Days_forecast_plot_AAPL.png)
+
 ![Plot 6](plots/Prediction-Fed-Recession-Prophet-Plot.jpg)
